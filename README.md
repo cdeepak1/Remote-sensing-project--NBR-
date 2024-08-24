@@ -9,9 +9,6 @@ This repository contains the code and data analysis for studying the effects of 
 4. [Methodology](#methodology)
 5. [Results](#results)
 6. [Discussion](#discussion)
-7. [How to Run](#how-to-run)
-8. [Contributors](#contributors)
-9. [License](#license)
 
 ## Introduction
 The eruption of the Fuego Volcano in Guatemala on June 3, 2018, was one of the most significant volcanic events in recent years. The study aims to assess the impact of the eruption by analyzing vegetation loss using NDVI and NBR indices.
